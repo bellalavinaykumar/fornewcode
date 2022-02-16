@@ -1,5 +1,6 @@
 for i in range(10):
-  print("vinay kumar")
+  for j in range(10):
+    print("vinay kumar")
   
   
   
